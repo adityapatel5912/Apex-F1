@@ -1,0 +1,6 @@
+{
+  "name": "ApexF1",
+  "description": "A premium modern Formula 1 companion and advanced analytics platform with carbon fiber aesthetics, track metrics, real-time calendars, and telemetry dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
